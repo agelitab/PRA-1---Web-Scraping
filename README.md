@@ -17,4 +17,5 @@ es guardava correctament tot i especificar-ho.
 Components del grup:
 
 Geli Taberner, Albert
+
 Grau Escolano, Jordi
