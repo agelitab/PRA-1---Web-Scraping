@@ -8,9 +8,9 @@ En el GIT hi trobem dos fitxers python del tipus notebook: un per a la extracci�
 La selecció de dades s'ha basat en 11 temporades (de la 2010-2011 fins la 2020-2021) de les 5 grans competicions d'aquest esport: lligues espanyola, anglesa, francesa, italiana
 i alemanya.
 
-També es publica un informe PDF amb les respostes a les preguntes plantejades per a aquesta pràctica.
+També es publica un informe PDF amb les respostes a les preguntes plantejades per a aquesta pràctica (*PRA 1 - Big 5 European Leagues Web Scraping.pdf*).
 
-Els fitxers resultants de dades extretes es poden trobar a *Zenodo* mitjançant el DOI: 10.5281/zenodo.5651722 (o, directament, a través del link _https://doi.org/10.5281/zenodo.5651722_).
+Els fitxers resultants de dades extretes es poden trobar a *Zenodo* mitjançant el DOI: 10.5281/zenodo.5651722 (o, directament, a través del link _https://doi.org/10.5281/zenodo.5651722_) sota la llicència CC BY-NC-SA 4.0 License.
 
 ---------------------------------------------------
 ---------------------------------------------------
